@@ -44,7 +44,7 @@ git clone https://github.com/luthraG/object-lowerkeys.git
 #### toLowerCaseKeys(obj, [options])
 
 This API takes two parameters:
-1. Object whoes keys to be converted to lowercase and 
+1. Object whose keys to be converted to lowercase and
 2. options object. This argument is optional
 
 
