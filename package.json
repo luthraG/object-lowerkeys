@@ -1,0 +1,35 @@
+{
+  "name"          : "object-lowerkeys",
+  "version"       : "1.0.0",
+  "description"   : "Convert the keys of an object to lowercase",
+  "license"       : "MIT",
+  "repository"    : "https://github.com/luthraG/object-lowerkeys.git",
+  "author"        : {
+    "name"        : "Gaurav Luthra",
+    "email"       : "luthra.zenith@gmail.com"
+  },
+  "dependencies"  : {
+    "node-ratify" : ""
+  },
+  "engines"       : {
+    "node"        : ">=0.10.0"
+  },
+  "files"         : [
+    "index.js"
+  ],
+  "keywords"      : [
+    "object",
+    "keys",
+    "properties",
+    "lowercase-keys",
+    "lowerkeys",
+    "lowercase",
+    "extend",
+    "assign",
+    "lower-case",
+    "case",
+    "keys",
+    "key",
+    "toLowerCase"
+  ]
+}
