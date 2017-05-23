@@ -37,7 +37,9 @@ lowercasekeys.toLowerCaseKeys(days);
 
 ### Clone the repo
 
-git clone https://github.com/luthraG/object-lowerkeys.git
+```bash
+$ git clone https://github.com/luthraG/object-lowerkeys.git
+```
 
 ### API
 

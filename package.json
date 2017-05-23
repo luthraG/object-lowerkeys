@@ -1,6 +1,6 @@
 {
   "name"          : "object-lowerkeys",
-  "version"       : "1.0.0",
+  "version"       : "1.0.1",
   "description"   : "Convert the keys of an object to lowercase",
   "license"       : "MIT",
   "repository"    : "https://github.com/luthraG/object-lowerkeys.git",
@@ -9,7 +9,7 @@
     "email"       : "luthra.zenith@gmail.com"
   },
   "dependencies"  : {
-    "node-ratify" : ""
+    "node-ratify" : "1.1.2"
   },
   "engines"       : {
     "node"        : ">=0.10.0"
